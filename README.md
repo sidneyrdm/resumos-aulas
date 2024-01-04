@@ -10,8 +10,8 @@ Repositório para acompanhamento do curso de Git e GitHub na DIO [DIGITAL INNOVA
 ## 💻 Resumos da Aulas
 | Aulas | Resumos |
 |-------|---------|
-|Gravando alteraões no repositório local |[resumo]()|
-
+|Aula 01 | [resumo]()|
+|Aula 02 | [resumo]()|
 ```
 git init
 ```
